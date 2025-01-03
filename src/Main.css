@@ -1,0 +1,84 @@
+#first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+button{
+    width: 200px;
+    height: 35px;
+    background-color: rgb(55, 99, 195);
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(57, 82, 136);
+}
+#second{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+}
+#links{
+    display: flex;
+    column-gap: 10px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+#second_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#thirds{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+#fourth{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+#fourth2{
+    display: flex;
+    column-gap: 0px;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#fourth3{
+    display: flex;
+    column-gap: 0px;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#fourth4{
+    display: flex;
+    column-gap: 0px;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#new{
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-bottom: 100px;
+}
+#five{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 100px;
+}
+#six{
+    text-align: center;
+    padding-bottom: 100px;
+}
